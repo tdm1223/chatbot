@@ -2,3 +2,5 @@
 __pycache__/
 ngrok.exe
 venv/
+
+requirements.txt
