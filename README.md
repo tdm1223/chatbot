@@ -1,34 +1,23 @@
-제목
+recruit_bot
 =========
 
-# hello
+### requirements
+- click==6.7
+- Flask==0.12.2
+- itsdangerous==0.24
+- Jinja2==2.9.6
+- MarkupSafe==1.0
+- numpy
+- pyaml==16.9.0
+- PyYAML ==3.12
+- requests-oauthlib==0.8.0
+- requests==2.18.4
+- six==1.10.0
+- slackclient==1.0.2
+- websocket-client==0.37.0
+- Werkzeug==0.12.2
+- beautifulsoup4==4.6.3
 
-## hello
+### 앱설명
+- 국내 최대 규모 채용 사이트인 잡코리아 사이트의 신입 채용정보를 얻을 수 있는 챗봇
 
-### hello
-
-#### hello
-
-##### helllo
-
-- 목록
-    - 컴퓨터
-        - *삼성*
-        - *엘지*
-    - 노트북
-        - _한성_
-
-- 목차
-1. 안녕
-2. 헬로
-3. 니하고
-
-[네이버]("www.naver.com")
--------------------------
-[구글]("google.com")
--------------------
-
-| 번호 | 언어      | 국가                     | 
-|:----:|:-------------------:|:----------:|
-|  1   |         한글      | 대한민국  | 
-|  2   |      영어     | 미국 |  
